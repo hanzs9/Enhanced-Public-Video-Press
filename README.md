@@ -4,7 +4,7 @@ This project focuses on developing a system which is based on android smart phon
 
 ### Poster
 
-![poster](https://github.com/hanzs9/Enhanced-Public-Video-Press/blob/master/projectcode201833.jpg)
+![poster](https://github.com/hanzs9/Enhanced-Public-Video-Press/blob/master/projectcode201833-min.png)
 
 ### Methodology
 
